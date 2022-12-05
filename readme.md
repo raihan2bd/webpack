@@ -8,6 +8,7 @@
   ```
   npm  i --save-dev webpack webpack-cli webpack-dev-server @babel/core @babel/preset-env babel-loader style-loader css-loader sass-loader html-webpack-plugin mini-css-extract-plugin
   ```
+  After Installing all the packages run this command ``` npm start ``` to start dev server and run ``` npm run build ``` to build your project and also you watch you file by typeing this command on your terminal ``` npm run watch ```
 
 If your like my project don't forget to give a star on this project.
 
